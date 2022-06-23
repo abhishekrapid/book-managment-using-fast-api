@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 > DATABASE_URL = "enigne_name://myuser:mypass@localhost:port_name/db_name
 
-Please change the engine_name, myuser, mypass and db_name in the .env file
+Please change the engine_name, myuser, mypass and db_name in .env file
 
 
 ### Run the application
