@@ -17,10 +17,9 @@ pip install -r requirements.txt
 
 ### Postgresql must have in your system.
 
-    config.py
 > DATABASE_URL = "enigne_name://myuser:mypass@localhost:port_name/db_name
 
-Please change the engine_name, myuser, mypass and db_name
+Please change the engine_name, myuser, mypass and db_name in the .env file
 
 
 ### Run the application
